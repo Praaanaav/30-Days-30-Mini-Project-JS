@@ -14,4 +14,4 @@ Technologies used in the project:
 *   CSS
 *   JavaScript
 
-| 01  | Project-1( Weather App)        | [View](...) | [Code](https://github.com/yourusername/30-days-30-mini-projects/tree/main/Project-1( Weather App)) |
+| 🌤️ Day 1 | Weather App | [🔗 Live Demo](https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-1(%20Weather%20App)/) |
