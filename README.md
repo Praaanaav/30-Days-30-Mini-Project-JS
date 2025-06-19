@@ -13,3 +13,5 @@ Technologies used in the project:
 *   HTML
 *   CSS
 *   JavaScript
+
+| 01  | Project-1( Weather App)        | [View](...) | [Code](https://github.com/yourusername/30-days-30-mini-projects/tree/main/Project-1( Weather App)) |
