@@ -21,3 +21,5 @@ Technologies used in the project:
 | 🌤️ Day 1   | Weather App      | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-1(%20Weather%20App)/" target="_blank">🔗 Live Demo</a> |
 | ✅ Day 2   | To-Do List App   | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-2(To-Do%20List%20App)/" target="_blank">🔗 Live Demo</a> |
 | 🧠 Day 3   | Quiz App         | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-3(Quiz%20App)/" target="_blank">🔗 Live Demo</a> |
+| 🔐 Day 4   | Random Password Generator | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-4(Random password generator)/" target="_blank">🔗 Live Demo</a> |
+
