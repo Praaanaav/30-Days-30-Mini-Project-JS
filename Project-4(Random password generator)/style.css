@@ -1,0 +1,72 @@
+html,
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: #3e3f5b;
+}
+
+.container {
+  margin-top: 8rem;
+  margin-left: 4rem;
+}
+
+.head1 {
+  color: #f6f1de;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2.3rem;
+  margin: 0;
+}
+
+.head2 {
+  margin: 0;
+  color: #acd3a8;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2.3rem;
+
+  display: inline-block;
+  border-bottom: 3px solid #acd3a8;
+  padding-bottom: 5px;
+}
+
+.pass {
+  display: flex;
+  border-radius: 0.8rem;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 3.2rem;
+  background-color: #fff;
+  width: 30rem;
+  margin-top: 3rem;
+}
+
+.passtext {
+  color: black;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  border: none;
+  height: 3rem;
+  width: 85%;
+}
+
+.copyimg {
+  cursor: pointer;
+  height: 2rem;
+}
+
+.generate {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #acd3a8;
+  border: none;
+  border-radius: 0.5rem;
+  width: 12rem;
+  height: 3rem;
+  margin-top: 2rem;
+}
+.btnimg {
+  margin-right: 1rem;
+  height: 1.5rem;
+}
