@@ -1,0 +1,83 @@
+html,
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #283048, #859398);
+  height: 100vh;
+  width: 100vw;
+}
+.container {
+  background: linear-gradient(to right, #757f9a, #d7dde8);
+  border: 2px solid black;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 65vh;
+  width: 50%;
+  overflow-x: hidden;
+  scrollbar-gutter: stable;
+  margin: 0;
+  padding: 0;
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  position: static;
+}
+
+.noteimg {
+  height: 1.5rem;
+}
+
+.create {
+  flex-shrink: 0;
+  cursor: pointer;
+  background-color: plum;
+  height: 2.5rem;
+  width: 10rem;
+  border: none;
+  border-radius: 1rem;
+  position: static;
+}
+
+.pen {
+  height: 1rem;
+}
+
+.Notes {
+  border-radius: 1rem;
+  margin: 2rem;
+  margin-bottom: 0;
+  height: 7.8rem;
+  width: 39rem;
+  background-color: #fff;
+}
+
+.notetext {
+  border: none;
+  padding-left: 1rem;
+  font-size: 1rem;
+  overflow-y: auto;
+  margin: 0;
+  width: 97%;
+  height: 5rem;
+  border-radius: 1rem;
+}
+
+.notetext:focus {
+  outline: none;
+}
+.del {
+  margin: 0.2rem;
+  display: flex;
+  align-items: end;
+  justify-content: end;
+}
+
+.delimg {
+  cursor: pointer;
+  height: 1.5rem;
+}
