@@ -24,6 +24,7 @@ Technologies used in the project:
 | 🔐 Day 4   | Random Password Generator | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-4(Random password generator)/" target="_blank">🔗 Live Demo</a> |
 | 📝 Day 5   | Note App         | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-5(Note APP)/" target="_blank">🔗 Live Demo</a> |
 | 🎂 Day 6   | Age Calculator   | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-6(Age Calculator App)/" target="_blank">🔗 Live Demo</a> |
+| 💬 Day 7   | Quote Generator  | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-7(Quote Generator)/" target="_blank">🔗 Live Demo</a> |
 
 
 
