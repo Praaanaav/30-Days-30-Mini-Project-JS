@@ -1,0 +1,63 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  font-family: sans-serif;
+  background-color: aliceblue;
+}
+
+.container {
+  color: aliceblue;
+  width: 400px;
+  height: 200px;
+  background-image: url(./img/blake-cheek-zEb4cjeSh00-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.time {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.time p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2.5rem;
+  padding: 0.2rem 0.5rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 0.5rem;
+}
+
+.control {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.control i {
+  font-size: 1.7rem;
+  cursor: pointer;
+  color: white;
+}
+
+.play {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: orangered;
+  border-radius: 50%;
+  height: 3rem;
+  width: 3rem;
+  cursor: pointer;
+}
