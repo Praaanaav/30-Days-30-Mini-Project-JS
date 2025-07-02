@@ -30,6 +30,7 @@ Technologies used in the project:
 | 🎵 Day 10   |  MP-3 Player | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-10( MP-3 Player)/" target="_blank">🔗 Live Demo</a> |
 | ⏱️ Day 11   | Stop Watch           | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-11( Stop Watch )" target="_blank">🔗 Live Demo</a> |
 | 🧮 Day 12   | Calculator           | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-12 ( Calculator )" target="_blank">🔗 Live Demo</a> |
-| 🔒 Day 13   | Hide And Show Password | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-13(%20Hide%20And%20Show%20Password%20)/" target="_blank">🔗 Live Demo</a> |
-
+[| 🔒 Day 13   | Hide And Show Password | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-13(%20Hide%20And%20Show%20Password%20)/" target="_blank">🔗 Live Demo</a> |
+](https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-13(%20Hide%20And%20Show%20Password%20)/
+)
 
