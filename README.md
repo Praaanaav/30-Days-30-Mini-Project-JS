@@ -28,7 +28,7 @@ Technologies used in the project:
 | 📱 Day 8   | QR Code Generator | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-8(QR Generator)/" target="_blank">🔗 Live Demo</a> |
 | 🔔 Day 9   | Toast Notification | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-9( Toast Notification )/" target="_blank">🔗 Live Demo</a> |
 | 🎵 Day 10   |  MP-3 Player | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-10( MP-3 Player)/" target="_blank">🔗 Live Demo</a> |
-| ⏱️ Day 11   | Stop Watch           | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-11( Stop Watch)/" target="_blank">🔗 Live Demo</a> |
+| ⏱️ Day 11   | Stop Watch           | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-11( Stop Watch )" target="_blank">🔗 Live Demo</a> |
 | 🧮 Day 12   | Calculator           | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-12( Calculator)/" target="_blank">🔗 Live Demo</a> |
 | 🔒 Day 13   | Hide And Show Password | <a href="https://praaanaav.github.io/30-Days-30-Mini-Project-JS/Project-13( Hide And Show Password)/" target="_blank">🔗 Live Demo</a> |
 
